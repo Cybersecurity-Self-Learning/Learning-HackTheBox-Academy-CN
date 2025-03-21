@@ -1,5 +1,5 @@
 ---
-description: 基于HackTheBox Academy网络安全在线学习平台的中文知识库(正在尝试更新......)。
+description: 基于HackTheBox Academy网络安全在线学习平台的知识库。
 icon: sunglasses
 cover: .gitbook/assets/OG_AcademyHomepage.webp
 coverY: -18.936355710549233
